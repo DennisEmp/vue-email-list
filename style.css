@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cont {
+    width: 800px;
+    min-width: 400px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+h1 {
+    color: brown;
+}
